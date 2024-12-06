@@ -1,7 +1,7 @@
 # Tareas Proveedores
 ## 29/11/2024
 ||Tarea|Tempo estimado|
-|-|-|-|
+|---|---|---|
 |*|Plantillas predefinidas para sitios.|2h|
 |*|5 plantillas de Home.|2h|
 ||## DISEÑO TIENDA||
