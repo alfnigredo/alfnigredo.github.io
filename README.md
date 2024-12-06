@@ -6,7 +6,7 @@
 |---|---|---|
 |*|Plantillas predefinidas para sitios.|2h|
 |*|5 plantillas de Home.|2h|
-||## DISEÑO TIENDA||
+|| **DISEÑO TIENDA** ||
 |*|capturar datos de tienda sitio (Titulo, info footer, texto quienes somos, texto contacto)||
 |*|Mostrar 3 plantillas que contengan las clases y imágenes de banners home||
 |*|de la información capturada y plantilla seleccionada poner liga para ir a tienda||
@@ -22,7 +22,7 @@
 |*|Quitar el Color del tema de primer pantalla, mejor crear tema bootstrap obscuro||
 |*|Sustitucion de contenidos en las plantillas del tema||
 |*|Iconos de bootstrap en plantillas de temas||
-||## ALTA PRODUCTO||
+|| **ALTA PRODUCTO** ||
 |*|poner área para drag&drop desde folder (PONER EL AREA PARA SUBIR LAS IMAGENES QUE ESTE AMPLIA PARA QUE SEA MAS FACIL ARRASTRARLAS)||
 |*|poder hacer drag&drop para el acomodo||
 |*|UNA VEZ QUE SE CARGARON LAS FOTOS PODER DEFINIR PRINCIAPL, BORARRLAS O ARRASTRARLAS||
@@ -32,3 +32,11 @@
 ||Copiar manejo de imagenes con Drag & Drop al Distribuidor||
 ||Administrador de plantillas||
 ||Analizar el manejo de scripts de animaciones y lightbox de los temas de bootstrapmade||
+
+# Sitios Distribuidores
+
+||Tarea|Tempo estimado|
+|---|---|---|
+||Carrito de Compras||
+||Definir Formas de pago||
+||Definir Formas de Envio||
