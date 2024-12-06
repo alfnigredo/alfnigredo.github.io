@@ -3,7 +3,7 @@
 ## 29/11/2024
 
 ||Tarea|Tempo estimado|
-|---|---|---|
+|:---:|---|:---:|
 |&check;|Plantillas predefinidas para sitios.|2h|
 |&check;|5 plantillas de Home.|2h|
 || **DISEÑO TIENDA** ||
