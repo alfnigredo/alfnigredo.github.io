@@ -1,4 +1,4 @@
-# Tareas Proveedores
+# Proveedores
 
 ## 29/11/2024
 
@@ -26,7 +26,7 @@
 |&check;|poner área para drag&drop desde folder (PONER EL AREA PARA SUBIR LAS IMAGENES QUE ESTE AMPLIA PARA QUE SEA MAS FACIL ARRASTRARLAS)||
 |&check;|poder hacer drag&drop para el acomodo||
 |&check;|UNA VEZ QUE SE CARGARON LAS FOTOS PODER DEFINIR PRINCIAPL, BORARRLAS O ARRASTRARLAS||
-||Categorías estructura tipo shopify||
+|-|Categorías estructura tipo shopify||
 ||Actualizacon de informacion del proveedor se debe reflejar en el distribuidor||
 ||Costo de los productos desde producto Original||
 ||Copiar manejo de imagenes con Drag & Drop al Distribuidor||
