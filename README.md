@@ -4,28 +4,28 @@
 
 ||Tarea|Tempo estimado|
 |:---:|---|:---:|
-|&check;|Plantillas predefinidas para sitios.|2h|
-|&check;|5 plantillas de Home.|2h|
+|*|Plantillas predefinidas para sitios.|2h|
+|*|5 plantillas de Home.|2h|
 || **DISEÑO TIENDA** ||
-|&check;|capturar datos de tienda sitio (Titulo, info footer, texto quienes somos, texto contacto)||
-|&check;|Mostrar 3 plantillas que contengan las clases y imágenes de banners home||
-|&check;|de la información capturada y plantilla seleccionada poner liga para ir a tienda||
-|&check;|Selector de Temas||
-|&check;|Creador de Tema Avanzado||
-|&check;|Modulo de creacion de Temas||
-|&check;|Tema de ejemplo||
-|&check;|Modificacion del modulo de edicion de paginas del Distribuidor||
-|&check;|Agregar footer a los temas prediseñados||
-|&check;|Segundo Tema||
-|&check;|Problema con estilos inline bloqueados por Angular||
-|&check;|Compilar estilos del tema para previsualizacion de sus paginas||
-|&check;|Quitar el Color del tema de primer pantalla, mejor crear tema bootstrap obscuro||
-|&check;|Sustitucion de contenidos en las plantillas del tema||
-|&check;|Iconos de bootstrap en plantillas de temas||
+|*|capturar datos de tienda sitio (Titulo, info footer, texto quienes somos, texto contacto)||
+|*|Mostrar 3 plantillas que contengan las clases y imágenes de banners home||
+|*|de la información capturada y plantilla seleccionada poner liga para ir a tienda||
+|*|Selector de Temas||
+|*|Creador de Tema Avanzado||
+|*|Modulo de creacion de Temas||
+|*|Tema de ejemplo||
+|*|Modificacion del modulo de edicion de paginas del Distribuidor||
+|*|Agregar footer a los temas prediseñados||
+|*|Segundo Tema||
+|*|Problema con estilos inline bloqueados por Angular||
+|*|Compilar estilos del tema para previsualizacion de sus paginas||
+|*|Quitar el Color del tema de primer pantalla, mejor crear tema bootstrap obscuro||
+|*|Sustitucion de contenidos en las plantillas del tema||
+|*|Iconos de bootstrap en plantillas de temas||
 || **ALTA PRODUCTO** ||
-|&check;|poner área para drag&drop desde folder (PONER EL AREA PARA SUBIR LAS IMAGENES QUE ESTE AMPLIA PARA QUE SEA MAS FACIL ARRASTRARLAS)||
-|&check;|poder hacer drag&drop para el acomodo||
-| &check; |UNA VEZ QUE SE CARGARON LAS FOTOS PODER DEFINIR PRINCIAPL, BORARRLAS O ARRASTRARLAS||
+|*|poner área para drag&drop desde folder (PONER EL AREA PARA SUBIR LAS IMAGENES QUE ESTE AMPLIA PARA QUE SEA MAS FACIL ARRASTRARLAS)||
+|*|poder hacer drag&drop para el acomodo||
+|*|UNA VEZ QUE SE CARGARON LAS FOTOS PODER DEFINIR PRINCIAPL, BORARRLAS O ARRASTRARLAS||
 |-|Categorías estructura tipo shopify||
 ||Actualizacon de informacion del proveedor se debe reflejar en el distribuidor||
 ||Costo de los productos desde producto Original||
