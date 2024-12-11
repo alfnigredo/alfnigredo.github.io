@@ -1,3 +1,13 @@
+# Rifas
+
+## 11/12/24
+
+||Tarea|Tempo estimado|
+|:---:|---|:---:|
+|*|Quitar el recortador automatico de imagenes para la rifa||
+
+---
+
 # Proveedores
 
 ## 29/11/2024
