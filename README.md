@@ -1,10 +1,12 @@
 # Rifas
 
-## 11/12/24
+## 12/12/24
 
 ||Tarea|Tempo estimado|
 |:---:|---|:---:|
-|*|Quitar el recortador automatico de imagenes para la rifa||
+|*|Campo para colocar cantidad de boletos para el cliente||
+|*|En el correo no se ven todos los numeros de los boletos comprados||
+|*|Cambiar guardado de Boleto x boleto a batch para mejorar la velocidad||
 
 ---
 
@@ -37,7 +39,7 @@
 |*|poder hacer drag&drop para el acomodo||
 |*|UNA VEZ QUE SE CARGARON LAS FOTOS PODER DEFINIR PRINCIAPL, BORARRLAS O ARRASTRARLAS||
 |-|Categorías estructura tipo shopify||
-||Actualizacon de informacion del proveedor se debe reflejar en el distribuidor||
+|-|Actualizacon de informacion del proveedor se debe reflejar en el distribuidor||
 ||Costo de los productos desde producto Original||
 ||Copiar manejo de imagenes con Drag & Drop al Distribuidor||
 ||Administrador de plantillas||
