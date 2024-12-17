@@ -15,16 +15,19 @@
 |*|Precios desde lista de precios||
 |*|Manejo de productos privados del Distribuidor||
 |*|Copiar manejo de imagenes con Drag & Drop al Distribuidor||
+||Modulo de ventas||
+||Modulo de clientes||
 ||Administrador de plantillas||
 ||Analizar el manejo de scripts de animaciones y lightbox de los temas de bootstrapmade||
-
-|| **ZENDESK** ||
-||||
 
 # Sitios Distribuidores
 
 ||Tarea|Tempo estimado|
 |---|---|---|
+|-|Inicio de sesion de clientes||
+|*|Registro de clientes nuevos||
+||Recaptcha para registro de clientes||
+||Opcino de Olvido su contraseña||
 ||Carrito de Compras||
 ||Paypal||
 ||MercadoPago||
