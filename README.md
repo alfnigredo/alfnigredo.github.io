@@ -24,11 +24,19 @@
 
 ||Tarea|Tempo estimado|
 |---|---|---|
-|-|Inicio de sesion de clientes||
+|*|Inicio de sesion de clientes||
+|*|Sesion de clientes persistente||
+|*|Correccion de temas para el DropDown de cliente||
 |*|Registro de clientes nuevos||
-||Recaptcha para registro de clientes||
-||Opcino de Olvido su contraseña||
+|*|Validacion de unicidad para User y correo electronico||
+|*|Validacion de patron para contraseña||
+|-|Recaptcha para registro de clientes||
+|-|Modulo de Mi cuenta para clientes||
 ||Carrito de Compras||
 ||Paypal||
 ||MercadoPago||
+||Modulo de mis copras para clientes||
+||Definir como se va a manejar el envio de correos||
+||Envio de correo de registro||
+||Opcino de Olvido su contraseña||
 ||Definir Formas de Envio||
