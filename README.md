@@ -1,5 +1,12 @@
 # Proveedores
 
+## 20/12/24
+
+||Tarea|Tempo estimado|
+|:---:|---|:---:|
+|*|Optimizacion de velocidad en Customer Service / Actualizacion Masivo||
+|*|Optimizacion de velocidad en Actualizacion de estatus en salidas||
+
 ## 12/12/2024
 
 ||Tarea|Tempo estimado|
@@ -30,7 +37,7 @@
 |*|Registro de clientes nuevos||
 |*|Validacion de unicidad para User y correo electronico||
 |*|Validacion de patron para contraseña||
-|-|Recaptcha para registro de clientes||
+|?|Recaptcha para registro de clientes||
 |-|Modulo de Mi cuenta para clientes||
 ||Carrito de Compras||
 ||Paypal||
