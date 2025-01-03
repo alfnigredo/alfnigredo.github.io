@@ -38,10 +38,13 @@
 |*|Validacion de unicidad para User y correo electronico||
 |*|Validacion de patron para contraseña||
 |?|Recaptcha para registro de clientes||
-|-|Modulo de Mi cuenta para clientes||
-||Carrito de Compras||
-||Paypal||
-||MercadoPago||
+|*|Modulo de Mi cuenta para clientes||
+|*|Carrito de Compras||
+|*|Paypal||
+|-|MercadoPago||
+||Validacion de existencias de proveedor||
+||Paises para método de Envío||
+||Catalogos dinamicos de colonia, etc, desde CP||
 ||Modulo de mis copras para clientes||
 ||Definir como se va a manejar el envio de correos||
 ||Envio de correo de registro||
