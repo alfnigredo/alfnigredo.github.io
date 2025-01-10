@@ -4,6 +4,7 @@
 
 ||Tarea|Tempo estimado|
 |:---:|---|:---:|
+||Eliminar los TR0 del listado de Karla por errror de ellos||
 
 # Proveedores
 
