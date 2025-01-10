@@ -25,6 +25,7 @@
 
 ||Tarea|Tempo estimado|
 |:---:|---|:---:|
+||Cambiar dominio a alkimyst.com||
 |-|Validacion de existencias de proveedor||
 ||En carrito continuar el proceso luego de loguearse o registrarse||
 ||Forma de pago con transferencia bancaria||
@@ -36,5 +37,6 @@
 ||Envio de correos desde AWS SES||
 ||Envio de correo de registro||
 ||Validacion de Registro con correo electornico||
+||Login automatico luego del registro||
 ||Opcino de Olvido su contraseña||
 |?|Definir Formas de Envio||
