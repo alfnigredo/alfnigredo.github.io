@@ -7,6 +7,7 @@
 | 1 | ALMACEN |  |  |  |  |  |  |  |
 | 1.2 | Impresión de PrePOD Soriana Agregar campo de phoneCell | No Comenzado | 1 |  | 30m | 25-01-16 | 25-01-16 | Completado |
 | 1.3 | Modificacion de PrePOD Schenker | No Comenzado | 2 | | 4h | 25-01-17 | 25-01-20 | Completado |
+| 1.3 | PrePOD Schenker, Referencia 6 separado por fila en la tabla | No Comenzado | 2 | | 1h | 25-01-22 | 25-01-22 | Completado |
 | 1.6 | En entradas cambiar opción de ubicación logyt X listado de almacenes | No Comenzado | 3 |  | 2h | 25-01-16 | 25-01-17 | Completado |
 | 1.1 | Generación masiva de etiquetas de paquetera | No Comenzado | 4 | Problema con dato del objeto notified de la API de estafeta | 1h | 25-01-17 | 25-01-17 | Completado |
 | 1.4 | Reimprimir la etiqueta Pod que se da desde impresión desde UCC | No Comenzado | 5 |  | 2h | 25-01-17 | 25-01-17 | Completado |
@@ -14,13 +15,13 @@
 | 1.7 | En folio relacionado agregar tr1 y tr2 para que pistoleen el folio y recupere la información de ese manifiesto (para asignar el origen) | No Comenzado | 7 |  | 4h | 25-01-20 | 25-01-20 | Completado |
 | 1.6 | En Entradas, el campo de origen debe mantener Currier | | |  | 1h | 25-01-21 | 25-01-21 | Completado |
 | 1.8 | Renombrar la prepod al guardarla | No Comenzado | 8 |  | 4h | 25-01-20 | 25-01-21 | Completado |
-| 1.9 | Si la cuenta contiene Vehiculo no hacer entrada | No Comenzado | 9 | Requiero definir bien la tarea |  |  |  |  |
-| 1.10 | Inventario bodega / No esta arrojando lo que esta en almacen | No Comenzado | 10 | Falta hacer rpeubas para determinar el problema |  |  |  |  |
-| 1.11 | Si filtras por cuenta en Listado / no esta respetando  la fecha creacion  | No Comenzado | 11 | Requiero definir bien la tarea |  |  |  |  |
+| 1.9 | Si la cuenta contiene Vehiculo no hacer entrada | No Comenzado | 9 | Cancelado |  |  |  | Cancelado |
+| 1.10 | Inventario bodega / No esta arrojando lo que esta en almacen | No Comenzado | 10 | Se reviso el filtro y esta correcto, parece ser confuncion porque utiliza el Estatus Adicional |  | 25-01-22 | 25-01-22 | Completado |
+| 1.11 | Si filtras por cuenta en Listado / no esta respetando  la fecha creacion  | No Comenzado | 11 | Se validó el filtro y se corrigieron las Referencias con data incorrecta | | 25-01-22 | 25-01-22 | Completado |
 | 2 | PLANEACION |  |  |  |  |  |  |  |
-| 2.4 | En pdf de manifiesto agregar quien manifestó (Salida real) agregarlo al PDF | No Comenzado | 12 |  | 30m |  |  |  |
-| 2.5 | En el manifiesto colocar la fecha en la que se esta manifestando | No Comenzado | 13 |  | 1h |  |  |  |
-| 2.6.2 | Regresar la mecanica a actualizar primero las referencias y luego mostrar el PDF | No Comenzado | 14 |  | 2h |  |  |  |
+| 2.4 | En pdf de manifiesto agregar quien manifestó (Salida real) agregarlo al PDF | No Comenzado | 12 |  | 30m | 25-01-22 | 25-01-22 | Completado |
+| 2.5 | En el manifiesto colocar la fecha en la que se esta manifestando | No Comenzado | 13 |  | 1h | 25-01-22 | 25-01-22 | Completado |
+| 2.6.2 | Regresar la mecanica a actualizar primero las referencias y luego mostrar el PDF | No Comenzado | 14 |  | 2h | 25-01-22 | 25-01-22 | Completado |
 | 2.1 | Asignacion por Multicuenta | No Comenzado | 15 |  | 10h |  |  |  |
 | 2.2 | Asignacion por Multidestino | No Comenzado | 16 |  | 10h |  |  |  |
 | 2.3 | Asignacion por Multiunidad | No Comenzado | 17 |  | 10h |  |  |  |
