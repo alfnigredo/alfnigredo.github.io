@@ -22,9 +22,9 @@
 | 2.4 | En pdf de manifiesto agregar quien manifestó (Salida real) agregarlo al PDF | No Comenzado | 12 |  | 30m | 25-01-22 | 25-01-22 | Completado |
 | 2.5 | En el manifiesto colocar la fecha en la que se esta manifestando | No Comenzado | 13 |  | 1h | 25-01-22 | 25-01-22 | Completado |
 | 2.6.2 | Regresar la mecanica a actualizar primero las referencias y luego mostrar el PDF | No Comenzado | 14 |  | 2h | 25-01-22 | 25-01-22 | Completado |
-| 2.1 | Asignacion por Multicuenta | No Comenzado | 15 |  | 10h |  |  |  |
-| 2.2 | Asignacion por Multidestino | No Comenzado | 16 |  | 10h |  |  |  |
-| 2.3 | Asignacion por Multiunidad | No Comenzado | 17 |  | 10h |  |  |  |
+| 2.1 | Asignacion por Multicuenta | No Comenzado | 15 |  | 10h | 25-01-23 |  | En Proceso |
+| 2.2 | Asignacion por Multidestino | No Comenzado | 16 |  | 10h | 25-01-23 |  | En Proceso |
+| 2.3 | Asignacion por Multiunidad | No Comenzado | 17 |  | 10h | 25-01-23 |  | En Proceso |
 | 2.6 | Colocar una ventana emergente que nos indica que esperemos a que se concluya el manifiesto | No Comenzado |  | Sustituido por 2.6.2 | 0 |  |  |  |
 | 2.7 | Colocar un mensaje emergente previo a cerrarlo, “Se sigue procesando, favor de esperar” | No Comenzado |  | Sustituido por 2.6.2 | 0 |  |  |  |
 | 2.8 | Tener un botón que nos diga que no se terminó de procesar todas las referencias de X manifiesto.  | No Comenzado |  | Sustituido por 2.6.2 | 0 |  |  |  |
