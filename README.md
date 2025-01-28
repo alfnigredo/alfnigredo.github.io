@@ -27,7 +27,7 @@
 | 2.3 | Asignacion por Multiunidad | No Comenzado | 17 |  | 10h | 25-01-23 | 25-01-27 | Completado |
 | 2.6 | Colocar una ventana emergente que nos indica que esperemos a que se concluya el manifiesto | No Comenzado |  | Sustituido por 2.6.2 | 0 |  |  |  |
 | 2.7 | Colocar un mensaje emergente previo a cerrarlo, “Se sigue procesando, favor de esperar” | No Comenzado |  | Sustituido por 2.6.2 | 0 |  |  |  |
-| 2.8 | Tener un botón que nos diga que no se terminó de procesar todas las referencias de X manifiesto.  | No Comenzado |  | Sustituido por 2.6.2 | 0 |  |  |  |
+| 2.8 | Tener un botón que nos diga que no se terminó de procesar todas las referencias de X manifiesto.  | No Comenzado |  | Para el caso en que se les va la luz | 4h |  |  |  |
 | 3 | SERVICIO AL CLIENTE |  |  |  |  |  |  |  |
 | 3.2 | Reporte de Devoluciones (Que en estatus sean devolución y  devolución en tránsito) | No Comenzado | 18 |  | 2h |  |  |  |
 | 3.4 | Corrección de errores es en actualizacion masiva que esta tardando mucho en hacer la búsqueda de guias | No Comenzado | 19 | Ya debe estar resuelto, falta validarlo con Logyt |  |  |  |  |
