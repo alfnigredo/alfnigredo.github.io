@@ -27,15 +27,15 @@
 | 2.3 | Asignacion por Multiunidad | No Comenzado | 17 |  | 10h | 25-01-23 | 25-01-27 | Completado |
 | 2.6 | Colocar una ventana emergente que nos indica que esperemos a que se concluya el manifiesto | No Comenzado |  | Sustituido por 2.6.2 | 0 |  |  |  |
 | 2.7 | Colocar un mensaje emergente previo a cerrarlo, “Se sigue procesando, favor de esperar” | No Comenzado |  | Sustituido por 2.6.2 | 0 |  |  |  |
-| 2.8 | Tener un botón que nos diga que no se terminó de procesar todas las referencias de X manifiesto.  | No Comenzado |  | Para el caso en que se les va la luz | 4h |  |  |  |
+| 2.8 | Tener un botón que nos diga que no se terminó de procesar todas las referencias de X manifiesto.  | No Comenzado |  | Para el caso en que se les va la luz | 4h | 25-01-28 | 25-01-28 | Completado |
 | 3 | SERVICIO AL CLIENTE |  |  |  |  |  |  |  |
-| 3.2 | Reporte de Devoluciones (Que en estatus sean devolución y  devolución en tránsito) | No Comenzado | 18 |  | 2h |  |  |  |
+| 3.2 | Reporte de Devoluciones (Que en estatus sean devolución y  devolución en tránsito) | No Comenzado | 18 |  | 2h | 25-01-29 | 25-01-29 | Completado |
 | 3.4 | Corrección de errores es en actualizacion masiva que esta tardando mucho en hacer la búsqueda de guias | No Comenzado | 19 | Ya debe estar resuelto, falta validarlo con Logyt |  |  |  |  |
 | 3.1 | Actualizacion masiva | Completado |  |  |  |  |  |  |
 | 3.3 | Actualizacion masiva ahí mismo que dropd de información facturable no sean obligatorios | Completado |  |  |  |  |  |  |
 | 4 | AJUSTES Y CONFIGURACIONES |  |  |  |  |  |  |  |
-| 4.4 | Reporte de usuarios activos  | Nuevo | 20 | Hay que agregar el campo de ultimo acceso previo a generar el reporte | 2h |  |  |  |
-| 4.5 | reporte de todos los movimientos | Nuevo | 21 |  | 4h |  |  |  |
+| 4.4 | Reporte de usuarios activos  | Nuevo | 20 | Hay que agregar el campo de ultimo acceso previo a generar el reporte | 2h | 25-01-29 | 25-01-29 | Completado |
+| 4.5 | reporte de todos los movimientos | Nuevo | 21 |  | 4h | 25-01-29 | 25-01-29 | Completado |
 | 4.1 | Códigos de excepción hacerlo catalogo administrable | No Comenzado | 22 |  | 6h |  |  |  |
 | 4.2 | Al eliminar algun manifiesto, no se regresa al ultimo almacen, no nos deja manifestar | No Comenzado | 23 |  | 10h |  |  |  |
 | 4.3 | Catalogo de Tipo Facturable(Agregar el FTL) Este es el que viaja - Actualizacion Masiva del modulo de Sevico al Cliente | No Comenzado | 24 |  | 30m |  |  |  |
