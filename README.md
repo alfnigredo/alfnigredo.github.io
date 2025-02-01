@@ -36,12 +36,12 @@
 | 4 | AJUSTES Y CONFIGURACIONES |  |  |  |  |  |  |  |
 | 4.4 | Reporte de usuarios activos  | Nuevo | 20 | Hay que agregar el campo de ultimo acceso previo a generar el reporte | 2h | 25-01-29 | 25-01-29 | Completado |
 | 4.5 | reporte de todos los movimientos | Nuevo | 21 |  | 4h | 25-01-29 | 25-01-29 | Completado |
-| 4.1 | Códigos de excepción hacerlo catalogo administrable | No Comenzado | 22 |  | 6h |  |  |  |
-| 4.2 | Al eliminar algun manifiesto, no se regresa al ultimo almacen, no nos deja manifestar | No Comenzado | 23 |  | 10h |  |  |  |
-| 4.3 | Catalogo de Tipo Facturable(Agregar el FTL) Este es el que viaja - Actualizacion Masiva del modulo de Sevico al Cliente | No Comenzado | 24 |  | 30m |  |  |  |
-| 4.6 | Fecha real, NO modificable de todo lo registrado | Nuevo | 25 | Falta validar donde quieren que se muestre esta fecha | 10h |  |  |  |
+| 4.1 | Códigos de excepción hacerlo catalogo administrable | No Comenzado | 22 |  | 6h | 25-01-30 | 25-01-30 | Completado |
+| 4.2 | Al eliminar algun manifiesto, no se regresa al ultimo almacen, no nos deja manifestar | No Comenzado | 23 |  | 10h | 25-01-30 | 25-01-31 | Completado |
+| 4.3 | Catalogo de Tipo Facturable(Agregar el FTL) Este es el que viaja - Actualizacion Masiva del modulo de Sevico al Cliente | No Comenzado | 24 |  | 30m | 25-01-31 | 25-01-31 | Completado |
+| 4.6 | Fecha real, NO modificable de todo lo registrado | Nuevo | 25 | Falta validar donde quieren que se muestre esta fecha | 10h | 25-01-31 | 252-01-31 | Completado |
 | 5 | POD's |  |  |  |  |  |  |  |
-| 5.2 | Poder reemplazar un PODs ya cargado  (Que se quede el anterior en caso de haber cargado mas de uno ) | No Comenzado | 26 | Revisar que puedan cargar multiples PODs previo | 4h |  |  |  |
+| 5.2 | Poder reemplazar un PODs ya cargado  (Que se quede el anterior en caso de haber cargado mas de uno ) | No Comenzado | 26 | Revisar que puedan cargar multiples PODs previo | 4h | 25-01-31 |  | En Proceso |
 | 5.1 | Descarga masiva de POD's  | No Comenzado | 27 | Requiero definir bien la tarea | 4h |  |  |  |
 | 6 | FINANZAS |  |  |  |  |  |  |  |
 | 6.1 | Cambio en la provicion para ajustar las opciones multi del punto de planeacion | No Comenzado | 28 |  | 10h |  |  |  |
