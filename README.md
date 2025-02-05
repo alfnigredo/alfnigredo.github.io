@@ -1,5 +1,18 @@
 # Logyt
 
+## 04/02/25
+
+| Orden Karla | Tarea | Observaciones | Tiempo estimado | Inicio | Fin | Estatus |
+|---|---|---|---|---|---|---|
+|8.1|Agregar en mesa de control la opcion de seleccionar todas as referencias  y el total de refrecias por manifiesto||1h|25-02-05|25-02-05|Completado|
+|4.8|agregar "CLAVE DE EMBARQUE" EN LA LISTA DE ALMACEN||1h|25-02-05|25-02-05|Completado|
+|4.7|Manifiestos de ingreso y salida (Cantidas # Manifiestos y #TR) (Cuantas veces entro y salio )|Comienza a contar a partir del dia de liberacion|4h|25-02-05|25-02-05|Completado|
+|3.5|En el reporte de Devoluciones agregar las guias con clave de embarque DE||2h|25-02-05|25-02-05|Completado|
+|4.9|Agregar 6 campos para comentarios al reporte dinamico (seran internas )||2h|25-02-05||En Proceso|
+|3.4|Modificar el reporte de Estatus masivo como el de POD's de carga de fechas||4h||||
+
+# Logyt
+
 ## 16/01/25
 
 | Orden Karla | Tarea | Estatus Karla | Orden Alfonso | Observaciones | Tiempo estimado | Inicio | Fin | Estatus Alfonso |
@@ -41,12 +54,12 @@
 | 4.3 | Catalogo de Tipo Facturable(Agregar el FTL) Este es el que viaja - Actualizacion Masiva del modulo de Sevico al Cliente | No Comenzado | 24 |  | 30m | 25-01-31 | 25-01-31 | Completado |
 | 4.6 | Fecha real, NO modificable de todo lo registrado | Nuevo | 25 | Falta validar donde quieren que se muestre esta fecha | 10h | 25-01-31 | 252-01-31 | Completado |
 | 5 | POD's |  |  |  |  |  |  |  |
-| 5.2 | Poder reemplazar un PODs ya cargado  (Que se quede el anterior en caso de haber cargado mas de uno ) | No Comenzado | 26 | Revisar que puedan cargar multiples PODs previo | 4h | 25-01-31 |  | En Proceso |
-| 5.1 | Descarga masiva de POD's  | No Comenzado | 27 | Requiero definir bien la tarea | 4h |  |  |  |
+| 5.2 | Poder reemplazar un PODs ya cargado  (Que se quede el anterior en caso de haber cargado mas de uno ) | No Comenzado | 26 | Revisar que puedan cargar multiples PODs previo | 4h | 25-01-31 | 25-02-05 | Completado |
+| 5.1 | Descarga masiva de POD's  | No Comenzado | 27 | Descarga Masiva de PODs con nombre elegible entre Gia, Ref2 y Ref3 | 4h | 25-02-05 | 25-02-05 | Completado |
 | 6 | FINANZAS |  |  |  |  |  |  |  |
-| 6.1 | Cambio en la provicion para ajustar las opciones multi del punto de planeacion | No Comenzado | 28 |  | 10h |  |  |  |
+| 6.1 | Cambio en la provicion para ajustar las opciones multi del punto de planeacion | No Comenzado | 28 | Bloqueado hasta tener los requerimientos para los tarifarios | 10h |  |  |  |
 | 7 | Integracion |  |  |  |  |  |  |  |
-| 7.1 | AGREGAR CODIGO EXCEPCION EVO | Nuevo | 29 |  | 4h |  |  |  |
+| 7.1 | AGREGAR CODIGO EXCEPCION EVO | Nuevo | 29 |  | 4h | 25-02-05 | 25-02-05 | Completado |
 
 
 # Logyt
