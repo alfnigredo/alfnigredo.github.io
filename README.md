@@ -8,8 +8,8 @@
 |4.8|agregar "CLAVE DE EMBARQUE" EN LA LISTA DE ALMACEN||1h|25-02-05|25-02-05|Completado|
 |4.7|Manifiestos de ingreso y salida (Cantidas # Manifiestos y #TR) (Cuantas veces entro y salio )|Comienza a contar a partir del dia de liberacion|4h|25-02-05|25-02-05|Completado|
 |3.5|En el reporte de Devoluciones agregar las guias con clave de embarque DE||2h|25-02-05|25-02-05|Completado|
-|4.9|Agregar 6 campos para comentarios al reporte dinamico (seran internas )||2h|25-02-05||En Proceso|
-|3.4|Modificar el reporte de Estatus masivo como el de POD's de carga de fechas||4h||||
+|4.9|Agregar 6 campos para comentarios al reporte dinamico (seran internas )||2h|25-02-05|25-02-06|Completado|
+|3.4|Modificar el reporte de Estatus masivo como el de POD's de carga de fechas||4h|25-02-06|25-02-06|Completado|
 
 # Logyt
 
