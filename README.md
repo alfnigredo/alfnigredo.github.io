@@ -1,3 +1,39 @@
+
+# Proveedores
+
+## 07/02/2025
+
+||Tarea|Tempo estimado|
+|:---:|---|:---:|
+|*|Definir el manejo de monedas y su cambio de divisa||
+|*|Configuracion de monedas administrable||
+||Api para mantener actualizada la tasa de cambio de las monedas||
+|-|Actualizar precios al cambiar la configuracion de moneda||
+||Actualizar lista de precios al modificar el precio de un producto||
+||Sitios Multidioma||
+|-|Modulo POS para distribuidores sin sitio||
+||Modulo de Compras a Proveedores||
+||Live Preview de temas||
+||Administrador de plantillas||
+||Analizar el manejo de scripts de animaciones y lightbox de los temas de bootstrapmade||
+
+# Sitios Distribuidores
+
+||Tarea|Tempo estimado|
+|:---:|---|:---:|
+||Mostrar el codigo de la moneda Actual||
+|?|Cambiar dominio a alkimyst.com||
+|-|Validacion de existencias de proveedor||
+||Venta de Proveedor al vender como Distribuidor||
+||Validacion de pago automatico con medios electronicos||
+||Liberar Stock al cancelar venta||
+|?|Migrar dominio a Route53||
+|?|Envio de correos desde AWS SES||
+||Envio de correo de registro||
+|?|Validacion de Registro con correo electornico||
+||Opcion de Olvido su contraseña||
+|?|Definir Formas de Envio||
+
 # Logyt
 
 ## 04/02/25
