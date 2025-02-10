@@ -7,15 +7,18 @@
 |:---:|---|:---:|
 |*|Definir el manejo de monedas y su cambio de divisa||
 |*|Configuracion de monedas administrable||
-||Api para mantener actualizada la tasa de cambio de las monedas||
-|-|Actualizar precios al cambiar la configuracion de moneda||
-||Actualizar lista de precios al modificar el precio de un producto||
+|*|Api para mantener actualizada la tasa de cambio de las monedas||
+|*|Actualizar precios al cambiar la configuracion de moneda||
+|*|Actualizar lista de precios al modificar el precio de un producto||
 ||Sitios Multidioma||
 |-|Modulo POS para distribuidores sin sitio||
+|-|Alta rapida de cliente en POS||
+|?|Definir manejo de Impuestos||
 ||Modulo de Compras a Proveedores||
 ||Live Preview de temas||
 ||Administrador de plantillas||
 ||Analizar el manejo de scripts de animaciones y lightbox de los temas de bootstrapmade||
+||Permisos por modulo para Roles||
 
 # Sitios Distribuidores
 
