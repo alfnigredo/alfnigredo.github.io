@@ -11,10 +11,12 @@
 |*|Actualizar precios al cambiar la configuracion de moneda||
 |*|Actualizar lista de precios al modificar el precio de un producto||
 ||Sitios Multidioma||
-|-|Modulo POS para distribuidores sin sitio||
+|*|Modulo POS para distribuidores sin sitio||
 |*|Alta rapida de cliente en POS||
 |?|Definir manejo de Impuestos||
-||Modulo de Compras a Proveedores||
+|*|Modulo de Compras a Proveedores||
+|-|Consolidado de compras a Proveedores||
+||Liberar stock al cancelar venta||
 ||Live Preview de temas||
 ||Administrador de plantillas||
 ||Analizar el manejo de scripts de animaciones y lightbox de los temas de bootstrapmade||
