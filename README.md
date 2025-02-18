@@ -16,6 +16,7 @@
 |?|Definir manejo de Impuestos||
 |*|Modulo de Compras a Proveedores||
 |-|Consolidado de compras a Proveedores||
+||Actualizar stock de productos al modificarlos||
 ||Liberar stock al cancelar venta||
 ||Live Preview de temas||
 ||Administrador de plantillas||
@@ -29,7 +30,7 @@
 ||Mostrar el codigo de la moneda Actual||
 |?|Cambiar dominio a alkimyst.com||
 |-|Validacion de existencias de proveedor||
-||Venta de Proveedor al vender como Distribuidor||
+|*|Venta de Proveedor al vender como Distribuidor||
 ||Validacion de pago automatico con medios electronicos||
 ||Liberar Stock al cancelar venta||
 |?|Migrar dominio a Route53||
