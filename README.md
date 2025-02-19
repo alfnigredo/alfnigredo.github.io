@@ -15,9 +15,13 @@
 |*|Alta rapida de cliente en POS||
 |?|Definir manejo de Impuestos||
 |*|Modulo de Compras a Proveedores||
-|-|Consolidado de compras a Proveedores||
-||Actualizar stock de productos al modificarlos||
-||Liberar stock al cancelar venta||
+|*|Consolidado de compras a Proveedores||
+|*|Actualizar stock de productos al modificarlos||
+|*|Validar Stok previo a registrar venta||
+|*|Liberar stock al cancelar venta||
+|*|Agregar modulos nuevos a Roles||
+||Dashboard Distribuidor||
+||Dashboard Proveedor||
 ||Live Preview de temas||
 ||Administrador de plantillas||
 ||Analizar el manejo de scripts de animaciones y lightbox de los temas de bootstrapmade||
@@ -29,10 +33,11 @@
 |:---:|---|:---:|
 ||Mostrar el codigo de la moneda Actual||
 |?|Cambiar dominio a alkimyst.com||
-|-|Validacion de existencias de proveedor||
+|*|Validacion de existencias de proveedor||
 |*|Venta de Proveedor al vender como Distribuidor||
+|*|Modulo de Mis Compras (Cliente Final)||
 ||Validacion de pago automatico con medios electronicos||
-||Liberar Stock al cancelar venta||
+|*|Liberar Stock al cancelar venta||
 |?|Migrar dominio a Route53||
 |?|Envio de correos desde AWS SES||
 ||Envio de correo de registro||
