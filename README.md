@@ -1,3 +1,10 @@
+# Proveedores
+
+## 18/02/2025
+
+||Tarea|Tempo estimado|
+|:---:|---|:---:|
+|?|Sitio de Ventas directas del sistema||
 
 # Proveedores
 
@@ -10,7 +17,7 @@
 |*|Api para mantener actualizada la tasa de cambio de las monedas||
 |*|Actualizar precios al cambiar la configuracion de moneda||
 |*|Actualizar lista de precios al modificar el precio de un producto||
-||Sitios Multidioma||
+|?|Sitios Multidioma||
 |*|Modulo POS para distribuidores sin sitio||
 |*|Alta rapida de cliente en POS||
 |?|Definir manejo de Impuestos||
@@ -25,13 +32,13 @@
 ||Live Preview de temas||
 ||Administrador de plantillas||
 ||Analizar el manejo de scripts de animaciones y lightbox de los temas de bootstrapmade||
-||Permisos por modulo para Roles||
+|*|Permisos por modulo para Roles||
 
 # Sitios Distribuidores
 
-||Tarea|Tempo estimado|
+||Tarea|Tempo estimado|Observaciones|
 |:---:|---|:---:|
-||Mostrar el codigo de la moneda Actual||
+|*|Mostrar el codigo de la moneda Actual||
 |?|Cambiar dominio a alkimyst.com||
 |*|Validacion de existencias de proveedor||
 |*|Venta de Proveedor al vender como Distribuidor||
@@ -40,8 +47,8 @@
 |*|Liberar Stock al cancelar venta||
 |?|Migrar dominio a Route53||
 |?|Envio de correos desde AWS SES||
-||Envio de correo de registro||
-|?|Validacion de Registro con correo electornico||
+|?|Envio de correo de registro||
+|?|Validacion de Registro con correo electornico||Interfiere con el autologueo|
 ||Opcion de Olvido su contraseña||
 |?|Definir Formas de Envio||
 
