@@ -1,10 +1,23 @@
+# Logyt
+
+## 20/02/2025
+
+||Tarea|Tempo estimado|
+|:---:|---|:---:|
+|*|Cargar Facturas CXC|2h|
+|*|Cargar Facturas CXP|1h|
+|*|Reporte CXC|3h|
+|*|Reporte CXP|2h|
+||Actualizar Lambdas for fin de soporte de NodeJs16||
+
 # Proveedores
 
 ## 18/02/2025
 
 ||Tarea|Tempo estimado|
 |:---:|---|:---:|
-|?|Sitio de Ventas directas del sistema||
+|?|Definicion de Tienda directa ||
+
 
 # Proveedores
 
@@ -39,16 +52,16 @@
 ||Tarea|Tempo estimado|Observaciones|
 |:---:|---|:---:|
 |*|Mostrar el codigo de la moneda Actual||
-|?|Cambiar dominio a alkimyst.com||
 |*|Validacion de existencias de proveedor||
 |*|Venta de Proveedor al vender como Distribuidor||
 |*|Modulo de Mis Compras (Cliente Final)||
 ||Validacion de pago automatico con medios electronicos||
 |*|Liberar Stock al cancelar venta||
-|?|Migrar dominio a Route53||
-|?|Envio de correos desde AWS SES||
-|?|Envio de correo de registro||
-|?|Validacion de Registro con correo electornico||Interfiere con el autologueo|
+|x|Cambiar dominio a alkimyst.com||
+|x|Migrar dominio a Route53||
+|-|Envio de correos desde AWS SES||
+||Envio de correo de registro||
+|x|Validacion de Registro con correo electornico||Interfiere con el autologueo|
 ||Opcion de Olvido su contraseña||
 |?|Definir Formas de Envio||
 
