@@ -1,5 +1,16 @@
 # Logyt
 
+## 21/02/2025
+
+||Tarea|Tempo estimado|
+|:---:|---|:---:|
+||1. Cargar Factura será por Manifiesto en lugar de Referencia2 en CxP||
+||2. Prorateo el importe de la factura entre las guias en CxP||
+||3. En los reportes de CxP te muestro el importe de la factura y el prorateo||
+||4. En CxP agrego Transporte, tipo de unidad, operador y placas||
+
+# Logyt
+
 ## 20/02/2025
 
 ||Tarea|Tempo estimado|
@@ -16,7 +27,13 @@
 
 ||Tarea|Tempo estimado|
 |:---:|---|:---:|
-|?|Definicion de Tienda directa ||
+|*|Definicion de Tienda directa ||
+|*|Ocultar proveedor a los distribuidores||
+|*|Roles de Cliente Final y Representante||
+|-|Login para clientes finales y representantes (signals)||
+|*|Precios de representante||
+|-|Registro Clientes Finales||
+||Comisiones de representantes||
 
 
 # Proveedores
